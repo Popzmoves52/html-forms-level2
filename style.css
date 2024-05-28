@@ -1,0 +1,37 @@
+.align{
+    text-align: left;
+  }
+#bg{
+    background-color: white;
+    margin-left: 22%;
+    
+    
+}
+body{
+    background-color: rgb(214, 197, 12);
+}
+#border,th{
+    border-color:  rgb(214, 197, 12);
+}
+.yel{
+    background-color:  rgb(214, 197, 12);
+}
+button{
+    color: yellow;
+}
+
+ body{
+    font-family: "Roboto", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+ .button{
+    border-color:rgb(214, 197, 12) ;
+    color: rgb(214, 197, 12);
+ } 
+ th, td {
+    width:75px;
+    padding:10px
+ }
+  
+
